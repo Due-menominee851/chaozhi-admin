@@ -64,6 +64,20 @@ chaozhi-admin/
    - `chaozhi-web/CLAUDE.md`
 4. Run the generated backend and frontend directly against real APIs.
 
+## Screenshots
+
+### Login Page
+
+![Login Page](./.github/assets/login-page.png)
+
+### Lock Screen
+
+![Lock Screen](./.github/assets/login-lock-screen.png)
+
+### Purchase Order
+
+![Purchase Order](./.github/assets/purchase-order-page.png)
+
 ## Demo Assets
 
 The repository already contains a working documentation demo under `demo/`:
