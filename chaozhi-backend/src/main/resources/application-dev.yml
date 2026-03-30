@@ -1,0 +1,26 @@
+spring:
+  datasource:
+    # TODO: 修改为你的数据库信息
+    url: jdbc:mysql://localhost:3306/test?useUnicode=true&characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=false&serverTimezone=GMT%2B8&allowMultiQueries=true
+    username: root
+    password: 123456
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+  redis:
+    # TODO: 修改为你的Redis信息
+    host: localhost
+    port: 6379
+    database: 0
+
+#rocketmq:
+#  # TODO: 修改为你的RocketMQ信息
+#  name-server: localhost:9876
+#  producer:
+#    group: xxx_producer_group
+
+interface:
+  call-url:
+    # TODO: 修改为你的外部系统地址
+    wms: http://localhost:8081
+    plm: http://localhost:8082
+    srm: http://localhost:8083
